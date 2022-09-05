@@ -35,18 +35,24 @@ The following tools were enhanced for our paper;
 In order to enable the reproduction of our findings, we make the developed tools, the raw data of our measurements, and the analysis scripts publicly available. Please note, that our analysis scripts use ip-api (https://ip-api.com) for IP-to-Geolocation mapping. Due to changes in IP ownership, the data derived from the API might change over time. For our paper, we queried the APIs on the 16.05.2022.
 
 0. Repository Overview
-* The files ```single.query.response.times.ipynb``` and ```web.performance.ipynb``` are the analysis scripts for the ```single query response time``` and ```web performance``` measurements
-* The folders ```single.query.response.times.zip``` and ```web.performance.zip``` contain the dataset as well as supplementary files for the ```single query response time``` and ```web performance``` measurements
+* The files ```single.query.response.times.ipynb```, ```single.query.sizes.py``` and ```web.performance.ipynb``` are the analysis scripts for the ```single query response time``` and ```web performance``` measurements
+* The folders ```single.query.response.times.zip```, ```single.query.sizes.zip``` and ```web.performance.zip``` contain the dataset as well as supplementary files for the ```single query response time```, ```single query sizes``` and ```web performance``` measurements
+* The file ```single.query.sizes.processed.xlsx``` are the aggregated results of the ```single.query.sizes.py``` script
+
 
 1. Preparations
-* Clone this repository to a machine running ```Jupyter Notebook``` or ```JupyterLab```
+* Clone this repository to a machine running ```Jupyter Notebook``` or ```JupyterLab``` and ```python3```
 * Extract ```single.query.response.times.zip``` to the subdirectory ```single.query.response.times/```
 * Extract ```web.performance.zip``` to the subdirectory ```web.performance/```
+* Extract ```single.query.sizes.zip``` to the subdirectory ```single.query.sizes/```
 
 3. Single Query Response Times
 * Run the Jupyter Notebook ```single.query.response.times.ipynb```
 
-4. Web Performance
+4. Single Query Sizes
+* Run the python script ```single.query.sizes.py```
+
+5. Web Performance
 * Run the Jupyter Notebook ```web.performance.ipynb```
 
 ---
