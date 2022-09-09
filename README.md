@@ -16,11 +16,11 @@ The following tools were enhanced for our paper;
 
 1. DNSPerf: Performance measurement library for DoQ, DoUDP, DoTCP, DoT, and DoH 
 * Repository: https://github.com/mgranderath/dnsperf
-* Pull Request adding support for QUIC Address Validation as well as TLS 1.3 Session Resumption and 0-RTT for DoQ, DoT, and DoH: tba
+* Pull Request adding support for QUIC Address Validation as well as TLS 1.3 Session Resumption and 0-RTT for DoQ, DoT, and DoH: https://github.com/mgranderath/dnsperf/pull/3
 
 2. DNS Measurements: Performance measurement tool for DoQ, DoUDP, DoTCP, DoT, and DoH
 * Repository: https://github.com/mgranderath/dns-measurements
-* Pull Request adding support for QUIC Address Validation as well as TLS 1.3 Session Resumption and 0-RTT for DoQ, DoT, and DoH: tba
+* Pull Request adding support for QUIC Address Validation as well as TLS 1.3 Session Resumption and 0-RTT for DoQ, DoT, and DoH: https://github.com/mgranderath/dns-measurements/pull/2
 
 3. DNS Proxy: Simple DNS Proxy Server supporting DoQ, DoUDP, DoTCP, DoT, and DoH. 
 * Repository: https://github.com/AdguardTeam/dnsproxy
