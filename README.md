@@ -25,7 +25,7 @@ The following tools were enhanced for our paper;
 3. DNS Proxy: Simple DNS Proxy Server supporting DoQ, DoUDP, DoTCP, DoT, and DoH. 
 * Repository: https://github.com/AdguardTeam/dnsproxy
 * Fork used in the paper: https://github.com/justus237/dnsproxy
-* Pull request adding support for QUIC Address Validation as well as TLS 1.3 Session Resumption and 0-RTT for DoQ, DoT, and DoH: tba
+* Pull request adding support for QUIC Address Validation as well as TLS 1.3 Session Resumption and 0-RTT for DoQ, DoT, and DoH: https://github.com/AdguardTeam/dnsproxy/pull/268
 * Pull request DoT connection re-use: tba 
 
 ---
