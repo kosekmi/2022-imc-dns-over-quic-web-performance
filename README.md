@@ -26,7 +26,7 @@ The following tools were enhanced for our paper;
 * Repository: https://github.com/AdguardTeam/dnsproxy
 * Fork used in the paper: https://github.com/justus237/dnsproxy
 * Pull request adding support for QUIC Address Validation as well as TLS 1.3 Session Resumption and 0-RTT for DoQ, DoT, and DoH: https://github.com/AdguardTeam/dnsproxy/pull/268
-* Pull request DoT connection re-use: tba 
+* Pull request DoT connection reuse: https://github.com/AdguardTeam/dnsproxy/pull/269
 
 ---
 
