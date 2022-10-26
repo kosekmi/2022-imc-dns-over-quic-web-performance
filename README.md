@@ -8,6 +8,8 @@ Mike Kosek<sup>1</sup> | Luca Schumann<sup>1</sup> | Robin Marx<sup>2</sup> | Tr
 
 [Paper &rarr;] https://vaibhavbajpai.com/documents/papers/proceedings/doq-imc-2022.pdf
 
+[Paper ACM DL&rarr;] https://doi.org/10.1145/3517745.3561445
+
 ---
 
 ## Tools
