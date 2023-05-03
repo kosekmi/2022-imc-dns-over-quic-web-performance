@@ -6,7 +6,7 @@ Mike Kosek<sup>1</sup> | Luca Schumann<sup>1</sup> | Robin Marx<sup>2</sup> | Tr
 
 [IMC 2022](https://conferences.sigcomm.org/imc/2022/), October 25&ndash;27, 2022.
 
-[Paper &rarr;] https://vaibhavbajpai.com/documents/papers/proceedings/doq-imc-2022.pdf
+[Paper Arxiv &rarr;] https://arxiv.org/abs/2305.00790
 
 [Paper ACM DL&rarr;] https://doi.org/10.1145/3517745.3561445
 
